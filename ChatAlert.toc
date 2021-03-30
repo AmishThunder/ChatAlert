@@ -1,0 +1,4 @@
+## Interface: 11306
+## Title: ChatAlert
+## Notes: My first AddOn
+ChatAlert.lua
